@@ -1,0 +1,200 @@
+ /*first Banner Part*/
+    .header-first {
+      background: rgba(229, 90, 115, 0.10);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .pd {
+      padding: 0 10%;
+    }
+   .image1 > img{
+      height: 600px;
+      padding-top: 70px;
+
+   }
+   .image1{
+    margin-bottom: 0px;
+   }
+   .email-input-box {
+    height: 40px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
+input[type="email"]{
+    border: none;
+    width: 500px;
+    margin-right: 10px;
+    padding: 10px;
+}
+  
+  .subscribe-button {
+    width: 100px;
+    height: 40px;
+    background-color:#E55473;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  
+   .text-first{
+      width: 50%;
+   }
+   .inner-text{
+    font-size: 80px;
+   }
+   .button-first{
+      border-radius: 5px;
+      background: #E55473;
+      display: inline-flex;
+      padding: 10px 30px;
+      align-items: flex-start;
+      gap: 10px;
+      font-size: 17px;
+      color: aliceblue;
+      padding: 20px 43px 20px 43px;
+    }
+  /*Second Banner Part*/
+  .second-text {
+      text-align: center;
+      padding: 100px 0px;
+  }
+  .inner-text2{
+    font-size: 42px;
+  }
+  .inner-text-p{
+    position: relative;
+    bottom: 20px;
+  }
+  .three-flowers {
+    display: flex;
+    justify-content: space-between;
+}
+  .flower1{
+   background-color: #A7216226;
+   border-radius: 300px 300px 0px 0px;
+   height: 500px;
+   display: flex;
+    align-items: flex-end;
+  }
+  .flower2{
+    background-color: #0597A026;
+    border-radius: 300px 300px 0px 0px;
+    height: 500px;
+    display: flex;
+    align-items: center;
+  }
+  .flower3{
+    background-color: #477D1126;
+    border-radius: 300px 300px 0px 0px;
+    height: 500px;
+    display: flex;
+    align-items: flex-end;
+  }
+  .flower1-text {
+    align-items: center;
+    text-align: center;
+  }
+  .fl_img{
+      width: 350px;
+      padding: 120px 50px 0px 50px;
+  }
+  /* 3rd Banner Part*/
+  .three-logo {
+      display: flex;
+      background-color: #F4F4F4;
+      justify-content: space-around;
+      align-items: center;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      margin: 100px 10%;
+  }
+  .men {
+    text-align: center;
+}
+.men p {
+  font-size: 20px;
+  font-weight: bold;
+}
+.three-flowers p {
+  font-size: 22px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+  /* 4rd Banner Part*/
+  .fourth-part {
+    background-color: #E554730D;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.fourth-inner {
+  display: flex;
+  justify-content: space-around;
+}
+  .fourth-h2{
+    font-size: 50px;
+  }
+  .fourth-p{
+    font-size: 20px;
+    text-align: center;
+  }
+  button {
+    border: none !important;
+}
+  .fourth-button{
+    display: inline-flex;
+  padding: 20px 43px;
+  align-items: flex-start;
+  gap: 10px;
+  color: #FFFFFF;
+  border-radius: 8px;
+  background: #E55473;
+  margin-left: 280px;
+  }
+  /* 5th Banner Part*/
+  .fifth-images {
+    display: flex;
+    margin-top: 80px;
+    justify-content: space-around;
+}
+.fifth-text {
+  text-align: center;
+  margin-top: 100px;
+}
+  .fifth-h2{
+    font-size: 50px;
+    font-style: oblique;
+  }
+  .fifth-p{
+    font-size: 20px;
+  }
+  .sixth-part {
+    margin-top: 100px;
+}
+  .sixth-text{
+    text-align: center;
+    margin-bottom: 10px;
+    position: relative; 
+  }
+  .bg_img{
+    background-image: url("./flower-shop-assignment/Flower Asset/Rectangle 9.png");
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+  }
+  .footer-last {
+    background-color: #111010;
+    margin-top: 130px;
+    color: #FFFFFF;
+    text-align: center;
+}
+  .footer-h1{
+    font-size: 50px;
+  }
+  .footer-text {
+    padding: 50px;
+}
